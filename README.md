@@ -1,5 +1,4 @@
 ## Welcome to my home
-Hi there. 
 
 You can use the [editor on GitHub](https://github.com/dropthemasquerade/dropthemasquerade.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
