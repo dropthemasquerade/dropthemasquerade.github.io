@@ -59,7 +59,7 @@ Environment: C, Assembly Language, CVS, Python, Linux, gdb
 
 The project is to develop an application which injects different kinds of errors in the memory/memory interface and performs reads to see if the error gets corrected by the hardware.
 
-__Responsibilities:
+_Responsibilities:_
 
 1. Understood the injection mechanism of the memory hardware and developed several flows that needs to be implemented.
 2. Developed framework to inject single, double and multiple bit injections
