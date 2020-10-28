@@ -55,20 +55,20 @@ Supported the issues seen in the tool across all the teams for several projects.
 
 Environment: C, Assembly Language, CVS, Python, Linux, gdb
 
-Project: Application to inject errors in memory
+### Project: Application to inject errors in memory
 
 The project is to develop an application which injects different kinds of errors in the memory/memory interface and performs reads to see if the error gets corrected by the hardware.
 
-### Responsibilities:
+__Responsibilities:
 
-> Understood the injection mechanism of the memory hardware and developed several flows that needs to be implemented.
-Developed framework to inject single, double and multiple bit injections
-Developed the application in C language in Linux environment
-Came up with several options to the application to support one shot injection, continuous injection to mimic the real world scenario.
-Checked out the hardware correction algorithm by running with different memory patterns
-Maintaining the application revisions using CVS
-Wrapper developed in Python to run this application along with other applications
-Ported the application from Linux to Windows
+1. Understood the injection mechanism of the memory hardware and developed several flows that needs to be implemented.
+2. Developed framework to inject single, double and multiple bit injections
+3. Developed the application in C language in Linux environment
+4. Came up with several options to the application to support one shot injection, continuous injection to mimic the real world scenario.
+5. Checked out the hardware correction algorithm by running with different memory patterns
+6. Maintaining the application revisions using CVS
+7. Wrapper developed in Python to run this application along with other applications
+8. Ported the application from Linux to Windows
 
 Environment: C , Python, Linux, Windows, CVS, gdb
 
