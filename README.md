@@ -33,7 +33,7 @@ The project is to develop an application which injects different kinds of errors
 
 <details>
   <summary>
-    _Responsibilities:_
+    Responsibilities:
   </summary>
 
 1. Understood the injection mechanism of the memory hardware and developed several flows that needs to be implemented.
