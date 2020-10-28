@@ -16,13 +16,16 @@ Have flexibility and ability to learn and use new technologies and also to work 
 
 # Technology Skills
 
-- Languages: C, go , python, Assembly language
-- Markup Languages: Html and XML
+- Languages: C, go, python, AT&T Assembly language
 - Operating Systems: Linux, MAC, Docker, GCP, AWS
-- Code maintenance Tools: CVS, GIT
+- Developer Tools: Vim, GCC, Make, SSH, Atom, pyCharm
+- Databases: MySQL, Redis, Mongo, Elastic
 - Programming Methodologies: Waterfall, Iterative
 - Debuggers: gdb, pdb
-- Developer Tools: Vim, GCC, Make, SSH
+- Code maintenance Tools: CVS, GIT
+- Server: Nginx, uwsgi, asgi
+- Markup Languages: Html and XML
+- Other: k8s, compose
 
 # Professional Experience
 
