@@ -12,8 +12,6 @@ Leading, guiding and helping the team members with the challenges faced during t
 Have flexibility and ability to learn and use new technologies and also to work in team environment as wells as independently to get things done.
 
 
-
-
 # Technology Skills
 
 - Languages: C, go, python, AT&T Assembly language
@@ -28,32 +26,6 @@ Have flexibility and ability to learn and use new technologies and also to work 
 - Other: k8s, compose
 
 # Professional Experience
-
-Python Developer
-
-### Responsibilities:
-
-> Understand the business process variants and created the process flow for automating the adhoc request.
-Working closely with team members in developing the PowerShell scripts for automating the several steps in Microsoft HDinsight environment.
-Developed the map-reduce flows in Microsoft HDInsight hadoop environment using python.
-Explored different implementations in hadoop environment for data extraction and summarization by using packages like Hive, Pig.
-Developed Hive UDFs and Pig UDFs using Python in Microsoft HDInsight environment.
-Reporting the issues and resolve the issues that arise out of the testing process with different type of systems.
-Environment: Python, Powershell, Hive, Pig
-
-Golang
-
-### Responsibilities:
-
-> Developed several algorithms for generating several data patterns
-Added several options to the application to choose particular algorithm for data and address generation.
-Developed separate flows to support different kinds of memory access
-Developed the application using C language and Assembly instructions
-Maintaining the versions using CVS and sending the release notes for each release.
-Wrapper developed in Python for instantiating multi-threaded application and running with other applications
-Supported the issues seen in the tool across all the teams for several projects.
-
-Environment: C, Assembly Language, CVS, Python, Linux, gdb
 
 ### Project: Application to inject errors in memory
 
@@ -70,7 +42,7 @@ _Responsibilities:_
 7. Wrapper developed in Python to run this application along with other applications
 8. Ported the application from Linux to Windows
 
-Environment: C , Python, Linux, Windows, CVS, gdb
+#### Environment: C , Python, Linux, Windows, CVS, gdb
 
 Python 
 
@@ -202,7 +174,31 @@ Development of several Python APIs and harassers that works both in Linux and wi
 
 
 
+Python Developer
 
+### Responsibilities:
+
+> Understand the business process variants and created the process flow for automating the adhoc request.
+Working closely with team members in developing the PowerShell scripts for automating the several steps in Microsoft HDinsight environment.
+Developed the map-reduce flows in Microsoft HDInsight hadoop environment using python.
+Explored different implementations in hadoop environment for data extraction and summarization by using packages like Hive, Pig.
+Developed Hive UDFs and Pig UDFs using Python in Microsoft HDInsight environment.
+Reporting the issues and resolve the issues that arise out of the testing process with different type of systems.
+Environment: Python, Powershell, Hive, Pig
+
+Golang
+
+### Responsibilities:
+
+> Developed several algorithms for generating several data patterns
+Added several options to the application to choose particular algorithm for data and address generation.
+Developed separate flows to support different kinds of memory access
+Developed the application using C language and Assembly instructions
+Maintaining the versions using CVS and sending the release notes for each release.
+Wrapper developed in Python for instantiating multi-threaded application and running with other applications
+Supported the issues seen in the tool across all the teams for several projects.
+
+Environment: C, Assembly Language, CVS, Python, Linux, gdb
 
 
 
