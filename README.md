@@ -48,6 +48,23 @@ Python
 
 > QPI Quick Path Interconnect is a point-to-point processor interconnect developed by Intel replacing the shared FSB technology. It is a five layer architecture. The physical layer is the lowest level which has the actual wiring to connect to the other peer agents. The task involved in checking out the various flows in physical layer initialization, functionalities and error handling.
 
+
+
+
+
+
+
+
+<details>
+  <summary>点击时的区域标题</summary>
+```
+这是折叠的代码1
+这是折叠的代码2
+```
+</details>
+
+
+
 ### Responsibilities:
 
 > Individual contributor in understanding the QPI physical layer spec and developing the test algorithms using the processor hooks and get them reviewed
