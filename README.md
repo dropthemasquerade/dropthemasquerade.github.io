@@ -42,7 +42,7 @@ _Responsibilities:_
 7. Wrapper developed in Python to run this application along with other applications
 8. Ported the application from Linux to Windows
 
-_Environment: C , Python, Linux, Windows, CVS, gdb
+_Environment:_ C , Python, Linux, Windows, CVS, gdb
 
 Python 
 
