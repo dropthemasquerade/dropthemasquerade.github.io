@@ -31,7 +31,8 @@ Have flexibility and ability to learn and use new technologies and also to work 
 
 The project is to develop an application which injects different kinds of errors in the memory/memory interface and performs reads to see if the error gets corrected by the hardware.
 
-_Responsibilities:_
+<details>
+  <summary>_Responsibilities:_</summary>
 
 1. Understood the injection mechanism of the memory hardware and developed several flows that needs to be implemented.
 2. Developed framework to inject single, double and multiple bit injections
@@ -41,6 +42,8 @@ _Responsibilities:_
 6. Maintaining the application revisions using CVS
 7. Wrapper developed in Python to run this application along with other applications
 8. Ported the application from Linux to Windows
+
+</details>
 
 _Environment:_ C, Python, Linux, Windows, CVS, gdb
 
@@ -55,13 +58,7 @@ Python
 
 
 
-<details>
-  <summary>点击时的区域标题</summary>
-```
-这是折叠的代码1
-这是折叠的代码2
-```
-</details>
+
 
 
 
