@@ -1,36 +1,18 @@
-## Welcome to my home
-
-You can use the [editor on GitHub](https://github.com/dropthemasquerade/dropthemasquerade.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-
-
-
-
 # Professional Summary
 
-Engineering professional with 10 years of experience in Software development.
+Engineering professional with 4 years of experience in Software development.
 Mastering/Leading in the development of applications/tools using Python for 4+ years.
-Worked on several python packages like numpy, scipy, pytables etc..
-Having good experience in Hadoop Big Data processing. Expertise in developing the queries in Hive, Pig
-Mastering Web Application Development using html, JavaScript.
-Having Good Experience in Object Oriented Concepts with C , Java, Perl and Python.
-Experience in Design, Development, Testing, Automation, Enhancement and Maintenance of Applications and Tools.
-Good knowledge in various phases of SDLC Requirement Analysis, Design, Development and Testing on various Development and Enhancement Projects.
-Having good domain expertise in developing applications/tools using Perl and programming in C, C and Java.
-Having experience in developing GUIs using Tcl, Tk and Java.
+Worked on several python packages like FastApi, Django, Flask etc..
 Good Experience in C/C development of multi-threaded applications in a Linux Environment.
-Good Experience in error and exceptional handling.
 Good Experience in debugging the issues using debuggers like gdb, pdb.
-Development of Applications/Tools for validation of next generation IA32 Enterprise Processors.
 Familiarity with development best practices such as code reviews and unit testing.
-Experience in designing the automation framework using Perl and Shell scripting.
-Experience in writing test plans, test cases, test specifications and test coverage.
 Experience with Version Control, ideally SVN, CVS and GIT.
+Experience in writing test plans, test cases, test specifications and test coverage.
 Leading, guiding and helping the team members with the challenges faced during the project development process and problem solving.
 Have flexibility and ability to learn and use new technologies and also to work in team environment as wells as independently to get things done.
+
+
+
 
 # Technology Skills
 
