@@ -16,27 +16,25 @@ Have flexibility and ability to learn and use new technologies and also to work 
 
 # Technology Skills
 
-Languages: C, C , Java, Assembly language
+- Languages: C, C , Java, Assembly language
 
-Scripting: Perl, Python, Shell
+- Scripting: Perl, Python, Shell
 
-GUI development: Tcl,Tk, Java
+- GUI development: Tcl,Tk, Java
 
-Markup Languages: Html and XML
+- Markup Languages: Html and XML
 
-Operating Systems: Windows, Linux
+- Operating Systems: Windows, Linux, MAC
 
-Code maintenance Tools: CVS, Tortoise SVN, GIT
+- Code maintenance Tools: CVS, Tortoise SVN, GIT
 
-Programming Methodologies: Waterfall, Iterative
+- Programming Methodologies: Waterfall, Iterative
 
-Debuggers: gdb, pdb
+- Debuggers: gdb, pdb
 
-Others: MS Excel, MS Office, MS Power Point, Latex
+- Trainings/Certifications: Software Engineering/development process, Product development cycle, Software and Hardware Debugging, Six Sigma Green Belt, Intel debug tools and process
 
-Trainings/Certifications: Software Engineering/development process, Product development cycle, Software and Hardware Debugging, Six Sigma Green Belt, Intel debug tools and process
-
-Professional Experience
+# Professional Experience
 
 Confidential
 
