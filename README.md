@@ -16,25 +16,20 @@ Have flexibility and ability to learn and use new technologies and also to work 
 
 # Technology Skills
 
-- Languages: C, C , Java, Assembly language
-- Scripting: Perl, Python, Shell
-- GUI development: Tcl,Tk, Java
+- Languages: C, go , python, Assembly language
 - Markup Languages: Html and XML
 - Operating Systems: Windows, Linux, MAC
-- Code maintenance Tools: CVS, Tortoise SVN, GIT
+- Code maintenance Tools: CVS, GIT
 - Programming Methodologies: Waterfall, Iterative
 - Debuggers: gdb, pdb
-- Trainings/Certifications: Software Engineering/development process, Product development cycle, Software and Hardware Debugging, Six Sigma Green Belt, Intel debug tools and process
 
 # Professional Experience
 
-Confidential
-
 Python Developer
 
-# Responsibilities:
+### Responsibilities:
 
-Understand the business process variants and created the process flow for automating the adhoc request.
+> Understand the business process variants and created the process flow for automating the adhoc request.
 Working closely with team members in developing the PowerShell scripts for automating the several steps in Microsoft HDinsight environment.
 Developed the map-reduce flows in Microsoft HDInsight hadoop environment using python.
 Explored different implementations in hadoop environment for data extraction and summarization by using packages like Hive, Pig.
