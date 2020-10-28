@@ -18,10 +18,11 @@ Have flexibility and ability to learn and use new technologies and also to work 
 
 - Languages: C, go , python, Assembly language
 - Markup Languages: Html and XML
-- Operating Systems: Windows, Linux, MAC
+- Operating Systems: Linux, MAC, Docker, GCP, AWS
 - Code maintenance Tools: CVS, GIT
 - Programming Methodologies: Waterfall, Iterative
 - Debuggers: gdb, pdb
+- Developer Tools: Vim, GCC, Make, SSH
 
 # Professional Experience
 
@@ -37,26 +38,27 @@ Developed Hive UDFs and Pig UDFs using Python in Microsoft HDInsight environment
 Reporting the issues and resolve the issues that arise out of the testing process with different type of systems.
 Environment: Python, Powershell, Hive, Pig
 
-Confidential
+Golang
 
-Responsibilities:
+### Responsibilities:
 
-Developed several algorithms for generating several data patterns
+> Developed several algorithms for generating several data patterns
 Added several options to the application to choose particular algorithm for data and address generation.
 Developed separate flows to support different kinds of memory access
 Developed the application using C language and Assembly instructions
 Maintaining the versions using CVS and sending the release notes for each release.
 Wrapper developed in Python for instantiating multi-threaded application and running with other applications
 Supported the issues seen in the tool across all the teams for several projects.
+
 Environment: C, Assembly Language, CVS, Python, Linux, gdb
 
 Project: Application to inject errors in memory
 
 The project is to develop an application which injects different kinds of errors in the memory/memory interface and performs reads to see if the error gets corrected by the hardware.
 
-Responsibilities:
+### Responsibilities:
 
-Understood the injection mechanism of the memory hardware and developed several flows that needs to be implemented.
+> Understood the injection mechanism of the memory hardware and developed several flows that needs to be implemented.
 Developed framework to inject single, double and multiple bit injections
 Developed the application in C language in Linux environment
 Came up with several options to the application to support one shot injection, continuous injection to mimic the real world scenario.
@@ -65,15 +67,15 @@ Maintaining the application revisions using CVS
 Wrapper developed in Python to run this application along with other applications
 Ported the application from Linux to Windows
 
-### Environment: C , Python, Linux, Windows, CVS, gdb
+Environment: C , Python, Linux, Windows, CVS, gdb
 
-## Confidential
+Python 
 
-QPI Quick Path Interconnect is a point-to-point processor interconnect developed by Intel replacing the shared FSB technology. It is a five layer architecture. The physical layer is the lowest level which has the actual wiring to connect to the other peer agents. The task involved in checking out the various flows in physical layer initialization, functionalities and error handling.
+> QPI Quick Path Interconnect is a point-to-point processor interconnect developed by Intel replacing the shared FSB technology. It is a five layer architecture. The physical layer is the lowest level which has the actual wiring to connect to the other peer agents. The task involved in checking out the various flows in physical layer initialization, functionalities and error handling.
 
-## Responsibilities:
+### Responsibilities:
 
-Individual contributor in understanding the QPI physical layer spec and developing the test algorithms using the processor hooks and get them reviewed
+> Individual contributor in understanding the QPI physical layer spec and developing the test algorithms using the processor hooks and get them reviewed
 Implementation of the test algorithms in focused tool with self-checking methodology
 Sanitization of the test by running in RTL, previous generation processors
 Execution of the tests on the silicon and finding the bugs in the physical layer functionality
@@ -82,13 +84,13 @@ Development of Assembly instructions for initializing the processor
 Automation for execution of tests in batch using Shell scripting
 Environment: Python, Assembly language, Shell scripting, SVN
 
-## Confidential
+Confidential
 
 Virtualization Technology is the latest technology in the upcoming processors which allows processor to support virtualization for different virtual machines. This is the emerging technology which helps to run multiple OS on single Processor. The validation of this feature is a difficult task which involved in developing algorithms to check the processor behavior while switching among different virtual machines/OSs.
 
-## Responsibilities
+### Responsibilities
 
-Lead the team in developing the test algorithms for covering all the scenarios during the virtual machine switching
+> Lead the team in developing the test algorithms for covering all the scenarios during the virtual machine switching
 Implementation and sanity check of tests by running on previous generation processors
 Sanitization and debugging the failures during the execution of tests on the new Processor
 Enhancing the tests to support 16 threads and run in MP environment
@@ -97,13 +99,13 @@ Intel compilers to generate test objs using Assembly language and user- defined 
 Debugging using the gdb and hardware break points
 Environment: C, C , Assembly Language, SVN
 
-## Confidential
+Confidential
 
 RAS features are the critical in server market. Missing of any error condition validation will directly impact the Intel Server market segment. These features are spread across all the processor components. This project involved in developing the test conditions for generating the specific scenarios by injecting the errors using different processor defeatures/hooks for validating the processor behavior in error handling/reporting.
 
-## Responsibilities
+### Responsibilities
 
-Development of the test plan to cover all the RAS features
+> Development of the test plan to cover all the RAS features
 Preparation of the test conditions/scenarios which cause the errors similar to real world scenarios seen during the Processor execution
 Implementation of procedures across the various validation tools that enable to cause the error conditions in Server Processor and process of self-checking
 Guided Intern to implement handlers to handle the error condition seen in Processor
@@ -113,13 +115,13 @@ Developed user defined error handlers using C language
 Developed tests for focused test environment tool for creating various error conditions using C and assembly language
 Environment: XML, C, Assembly Language
 
-## Confidential
+Confidential
 
 Fuses are the PROM bits in processors which are programmable at the sort. The Fuses are used for enabling/disabling certain features in the Processor at the time of manufacturing. Now these fuses have been moved on to flash ROM on the package which can be flashed many times. The fuses gets downloaded on to the processor during the booting. This project involved in developing tool for implementing the process of flashing the fuses on ROM multiple times.
 
-## Responsibilities:
+### Responsibilities:
 
-Understand the fuse layout in the flash ROM
+> Understand the fuse layout in the flash ROM
 Came up with the different usage models for flashing the ROM with different values and documented the same in the Product Release Documentation.
 Developed Fuse tool using Perl based on usage model from several teams.
 Supported the issues seen in the tool across all the teams till the product launch.
@@ -130,13 +132,13 @@ Backend scripting/parsing using Perl and Python
 Enhanced the GUI using Java APIs and added features to tracking the fuse revision of several processors
 Environment: Perl, Python, Tcl/Tk, Microsoft Excel, Java
 
-## Confidential
+Confidential
 
 This project involved developing the framework for System Validation debug tools and coverage tools for FSB based Server Multi Processors. It involved debugging test failures which involved figuring out whether the test failure seen is silicon/environment issue. It involved taking FSB traces using Logic Analyzer to analyze the processor behavior at the failure point and report to the design team for rout causing the failure behavior.
 
-## Responsibilities:
+### Responsibilities:
 
-Proposed Breakpoint and Array Dump tool for debug which reduces the time to debug
+> Proposed Breakpoint and Array Dump tool for debug which reduces the time to debug
 Interacted with designers to discuss various flows of debug and coverage methods, design the tool framework
 Implemented and validated these tools which helped in getting the functional coverage and triaging the failures quickly
 Development of Python APIs to dump the array structures in the Processor at the failure point for debugging
@@ -150,7 +152,7 @@ This project involved in debugging the failures seen in execution of focused tes
 
 ## Responsibilities:
 
-Leading the team members to look into all the failures seen in execution and categorize to various signature buckets
+> Leading the team members to look into all the failures seen in execution and categorize to various signature buckets
 To conduct the debug team meetings and providing directions to the team for the next level debugging of the different failure signatures to environment/silicon/BIOS issues
 Debugging the failure issues by capturing the array and register dumps using Python scripts, traces and performing several experiments by interacting with the design team
 Perl Scripts for bucketing the failures
@@ -165,7 +167,7 @@ This is new technology introduced with QPI based Intel processors. This technolo
 
 ## Responsibilities:
 
-Understand the memory controller functionality and developing the test plan for covering the memory controller functionalities
+> Understand the memory controller functionality and developing the test plan for covering the memory controller functionalities
 Developing/Running the stress test in C to cover the memory controller flows, DIMM manufacturers and NUMA architecture
 Developing the Python APIs which represent the memory subsystem.
 Lead the team in development of the harassers using the Python which involved development of several flows and state machines in the memory controller.
@@ -181,7 +183,7 @@ Intel next generation Processor has several components which need to function pr
 
 ## Responsibilities:
 
-Understanding the several Processor components
+> Understanding the several Processor components
 Analyzing the data in design database.
 Maintaining the data with different levels of access privileges
 Coordinating with the design team members to provide the data in required format
