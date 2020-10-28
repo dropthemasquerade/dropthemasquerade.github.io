@@ -27,7 +27,7 @@ Have flexibility and ability to learn and use new technologies and also to work 
 
 # Professional Experience
 
-### Project: Application to inject errors in memory
+**Project:** Application to inject errors in memory
 
 The project is to develop an application which injects different kinds of errors in the memory/memory interface and performs reads to see if the error gets corrected by the hardware.
 
@@ -42,7 +42,7 @@ _Responsibilities:_
 7. Wrapper developed in Python to run this application along with other applications
 8. Ported the application from Linux to Windows
 
-#### Environment: C , Python, Linux, Windows, CVS, gdb
+_Environment: C , Python, Linux, Windows, CVS, gdb
 
 Python 
 
