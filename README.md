@@ -1,7 +1,7 @@
 # Professional Summary
 
-Engineering professional with 4 years of experience in Software development.
-Mastering/Leading in the development of applications/tools using Python for 4+ years.
+Engineering professional with 9 years of experience in Software development.
+Mastering/Leading in the development of applications/tools using Python for 6+ years.
 Worked on several python packages like FastApi, Django, Flask etc..
 Good Experience in C/C development of multi-threaded applications in a Linux Environment.
 Good Experience in debugging the issues using debuggers like gdb, pdb.
@@ -14,16 +14,101 @@ Have flexibility and ability to learn and use new technologies and also to work 
 
 # Technology Skills
 
-- Languages: C, go, python, AT&T Assembly language
-- Operating Systems: Linux, MAC, Docker, GCP, AWS
-- Developer Tools: Vim, GCC, Make, SSH, Atom, pyCharm
-- Databases: MySQL, Redis, Mongo, Elastic
-- Programming Methodologies: Waterfall, Iterative
-- Debuggers: gdb, pdb
-- Code maintenance Tools: CVS, GIT
-- Server: Nginx, uwsgi, asgi
-- Markup Languages: Html and XML
-- Other: k8s, compose
+- Kafka
+	•	Good experience in building event-driven architectures using Apache Kafka.
+	•	Hands-on experience in designing producers, consumers, consumer groups, partition strategies, and message serialization (JSON/Avro/Protobuf).
+	•	Experienced in optimizing Kafka performance, retention policies, topic configurations, and offset management.
+	•	Familiar with Kafka Connect and Kafka Streams for real-time data pipelines and stream processing.
+	•	Experience troubleshooting consumer lag, broker failures, and cluster imbalance.
+
+- Docker
+	•	Good experience in Dockerizing applications and services for microservice deployment.
+	•	Hands-on experience in writing Dockerfiles, managing multi-stage builds, and optimizing container images.
+	•	Familiar with Docker Compose for multi-container orchestration.
+	•	Experience with container debugging, resource limits, and network configurations.
+	•	Worked with CI/CD pipelines for automated container builds and deployments.
+
+- Golang
+	•	Strong experience developing backend services and high-performance tools in Golang.
+	•	Hands-on experience with Go modules, concurrency (goroutines, channels), and memory optimization.
+	•	Familiarity with writing clean, testable Go code following idiomatic Go practices.
+	•	Experience integrating Go applications with Kafka, MongoDB, MySQL, Redis, and gRPC services.
+	•	Good at debugging runtime issues, profiling, and optimizing CPU/memory usage.
+
+- Gin Framework
+	•	Good experience building RESTful APIs using the Gin web framework.
+	•	Hands-on experience with middleware development, request validation, routing, and authentication.
+	•	Experience structuring scalable Gin projects with layered architecture (router → controller → service → repository).
+	•	Familiar with Gin performance tuning, rate limiting, panic recovery, and JSON serialization.
+	•	Integration experience with Swagger, JWT, and WebSocket modules.
+
+- MongoDB
+	•	Good experience designing schema-less data models using MongoDB.
+	•	Experience implementing indexes, aggregation pipelines, and query optimization.
+	•	Hands-on experience using MongoDB with Golang, Python, and Node.js.
+	•	Familiar with replica sets, sharding, backups, and high-availability configurations.
+	•	Skilled in troubleshooting performance issues and slow queries using MongoDB profiler.
+
+- MySQL
+	•	Strong experience in managing and designing relational database schemas.
+	•	Hands-on experience with complex SQL queries, stored procedures, indexing, and query tuning.
+	•	Familiar with MySQL replication, backup/restore, and performance optimization.
+	•	Experience in ORM tools across languages (GORM, SQLAlchemy, Prisma).
+	•	Integrated MySQL in large-scale systems with high-write and high-read loads.
+  
+- Elasticsearch
+	•	Good experience implementing full-text search using Elasticsearch.
+	•	Hands-on experience with index design, analyzers, tokenizers, and relevance tuning.
+	•	Experience building real-time analytics dashboards and search APIs.
+	•	Familiar with cluster deployment, sharding, replication, and ILM (Index Lifecycle Management).
+	•	Troubleshooting experience with slow queries, cluster health, and node balancing.
+
+- Redis
+	•	Good experience using Redis for caching, session management, distributed locking, and message queues.
+	•	Hands-on experience with Redis data structures including Strings, Hashes, Lists, Sets, Sorted Sets, Bitmaps, and HyperLogLog.
+	•	Experience implementing cache-aside, write-through, and read-through caching patterns in large-scale applications.
+	•	Familiar with Redis Cluster, Sentinel, and high-availability deployments.
+	•	Skilled in using Redis Pub/Sub and Streams for real-time processing.
+	•	Experience optimizing TTL strategies, key eviction policies, and memory usage for high-performance systems.
+	•	Knowledge of troubleshooting Redis latency, connection issues, and keyspace monitoring.
+
+- APISIX
+	•	Good experience using Apache APISIX as an API gateway and traffic management platform.
+	•	Hands-on experience configuring routes, upstreams, SSL certificates, and load balancing strategies in APISIX.
+	•	Familiar with APISIX plugins including authentication, rate limiting, logging, request validation, and observability.
+	•	Experience working with APISIX Dashboard and Admin API for dynamic configuration.
+	•	Knowledge of integrating APISIX with microservices built in Golang, Python, and Node.js.
+	•	Experience implementing canary release, blue-green deployment, and traffic splitting.
+	•	Skilled in debugging API routing issues, upstream failures, and latency bottlenecks.
+	•	Understanding of APISIX architecture including etcd, control plane vs. data plane, and plugin runner ecosystem.
+
+- Kubernetes
+	•	Solid experience deploying and managing containerized applications on Kubernetes.
+	•	Hands-on knowledge of core K8s components including Deployments, StatefulSets, DaemonSets, Services, ConfigMaps, Secrets, Ingress, and CRDs.
+	•	Experience working with Helm charts for application packaging and versioned deployments.
+	•	Familiar with Kubernetes networking, RBAC, resource quotas, autoscaling (HPA/VPA), and Pod disruption budgets.
+	•	Skilled in debugging using kubectl, logs, events, describe, port-forward, and monitoring pod lifecycle issues.
+	•	Knowledge of setting up CI/CD pipelines for automated K8s deployments.
+	•	Experience optimizing cluster performance, managing nodes, and tuning resource requests/limits.
+	•	Familiarity with service mesh technologies like Istio or Linkerd.
+
+- Docker Compose
+	•	Experienced in defining and orchestrating multi-container applications using Docker Compose.
+	•	Skilled in writing modular and reusable docker-compose.yml files for development, staging, and production environments.
+	•	Knowledge of linking services such as MySQL, MongoDB, Redis, Kafka, and APISIX within Compose networks.
+	•	Familiar with environment variable management, volume mapping, custom Dockerfiles, and overriding configs using multiple Compose files.
+	•	Experience building local microservice stacks for rapid development and debugging.
+
+- GCP (Google Cloud Platform)
+	•	Practical experience deploying workloads on multiple GCP services including Cloud Functions, Cloud Run, GKE, and App Engine.
+	•	Good understanding of IAM roles, service accounts, permissions, secret management, and VPC configurations.
+	•	Experience developing serverless applications on Cloud Functions with event-based triggers (HTTP, Pub/Sub, Storage).
+	•	Hands-on experience with Cloud Run for containerized, autoscaling backend services.
+	•	Familiar with GKE for Kubernetes-based orchestration including node pools, autoscaling, rolling updates, and workload identity.
+	•	Experience integrating Cloud Storage, Cloud SQL, Firestore, BigQuery, and Memorystore into production systems.
+	•	Knowledge of using Pub/Sub for queueing, event-driven processing, and asynchronous communication patterns.
+	•	Skilled in using Cloud Logging, Cloud Monitoring, Trace, and Error Reporting for debugging and observability.
+	•	Experience configuring CI/CD pipelines with Cloud Build or GitHub Actions for automated deployments.
 
 # Professional Experience
 
